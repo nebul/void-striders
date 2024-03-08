@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c04il0kk4hyrb"]
+
+[ext_resource type="Script" path="res://Scripts/Projectiles/projectile.gd" id="1_ccfj7"]
+
+[node name="Projectile" type="Node"]
+script = ExtResource("1_ccfj7")
